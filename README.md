@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>Hey there! 👋 I'm Manojkrishna M<br><br>🎓 B.Tech student in Artificial Intelligence and Data Science  <br>💡 Passionate about building real-world tech solutions  <br>🚀 Aspiring Developer  <br><br>---<br><br>## 🧠 What I Do<br><br>- 💻 Build web applications using my skills<br>- 📊 Work on real-world problem-solving projects  <br>- 🔧 Currently learning Full Stack Development  <br><br>---<br><br>## 🛠️ Tech Stack<br><br>-  Languages: Python, Java,SQL<br>-  Frontend: HTML, CSS,  React<br>-  Backend: Flask<br>- ⚙️ Tools: Git, GitHub, Jupyter Notebook  <br><br><br>---<br><br>## 📈 Current Focus<br><br>- 🔥 Building Full Stack Projects  <br>- 🤖 Machine Learning Projects  <br>- Learning DSA <br><br><br>---<br><br>## 🎯 Goals<br><br>- 💼 Get placed in Good company   <br>- 🧠 Build impactful products<br>- 💰 Create passive income streams  <br><br>---<br><br>## 📫 Connect With Me<br><br>- 📧 Email: manojkrishna2725@gmail.com  <br>- 💼 LinkedIn: https://www.linkedin.com/in/manoj-krishna-m/<br>- 🌐 Portfolio: soon <br><br>---<br><br> *"Consistency + Hard Work = Success"*  
+Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepreneur
 
 
 ## 🌐 Socials:
