@@ -21,6 +21,7 @@ Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepren
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manojkrishna27&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
 </p>
+![Snake](https://github.com/Manojkrishna27/Manojkrishna27/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
