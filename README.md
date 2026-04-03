@@ -20,7 +20,7 @@ Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepren
 
 
 ## Contribution Snake
-<img src="![Snake](https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg?v=2)"/>
+<img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
