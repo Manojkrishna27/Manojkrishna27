@@ -17,12 +17,10 @@ Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepren
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkrishna27&layout=compact&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manojkrishna27&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
-</p>
+
+
 ## Contribution Snake
-![Snake](https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg?v=2)
+<img src="![Snake](https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg?v=2)"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
