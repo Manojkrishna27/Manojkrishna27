@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Manojkrishna</h1>
 Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepreneur
 
 
