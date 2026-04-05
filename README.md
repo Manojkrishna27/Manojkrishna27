@@ -10,12 +10,10 @@ Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepren
 # 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Manojkrishna27&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
-  <img src="https://streak-stats.demolab.com?user=Manojkrishna27&theme=tokyonight" />
+  
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkrishna27&layout=compact&theme=tokyonight" />
-</p>
+
 
 
 
