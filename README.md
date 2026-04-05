@@ -11,7 +11,6 @@ Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepren
 <p>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Manojkrishna27&theme=tokyonight&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com?user=Manojkrishna27&theme=tokyonight)
 
