@@ -10,6 +10,8 @@ Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepren
 # 📊 GitHub Stats:
 <p>
 ![Streak](https://streak-stats.demolab.com?user=Manojkrishna27&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkrishna27&layout=compact&theme=tokyonight)
   
 </p>
 
