@@ -1,5 +1,5 @@
-<h1>Hi 👋I'm Manojkrishna</h1>
-Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepreneur
+<h1>Hi I'm Manojkrishna</h1>
+Turning ideas into code 💻 | AI & Data Science student |
 
 
 ## 🌐 Socials:
@@ -14,7 +14,6 @@ Turning ideas into code 💻 | AI & Data Science student | Future Tech Entrepren
 
 
 ![Streak](https://streak-stats.demolab.com?user=Manojkrishna27&theme=tokyonight)
-
 
   
 </p>
