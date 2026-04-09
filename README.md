@@ -1,5 +1,5 @@
 <h1>Hi I'm Manojkrishna</h1>
-Turning ideas into code 💻 | AI & Data Science student |
+Turning ideas into code 💻 | AI & Data Science student 
 
 
 ## 🌐 Socials:
