@@ -11,7 +11,7 @@ Turning ideas into code 💻 | AI & Data Science student
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/antigravity-flying?style=for-the-badge&logo=python&logoColor=ffdd54&color=233670A0)
+![Antigravity](https://img.shields.io/badge/antigravity-flying?style=for-the-badge&logo=python&logoColor=ffdd54&color=blue)
 
 
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
