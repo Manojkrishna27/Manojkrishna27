@@ -19,7 +19,8 @@ Turning ideas into code 💻 | AI & Data Science student
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%23499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://leetcode.com/u/l67O6s3DHV/)
+
 # 📊 GitHub Stats:
 <p>
 
