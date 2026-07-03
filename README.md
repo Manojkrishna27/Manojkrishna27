@@ -30,17 +30,11 @@ Turning ideas into code 💻 | AI & Data Science student
 
 # 📊 GitHub Stats:
 <p>
-
-
-
-
 ![Streak](https://streak-stats.demolab.com?user=Manojkrishna27&theme=tokyonight)
 
-  
+
 </p>
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.com/api?theme=tokyonight&type=quote" alt="Quote of the Day" />
-</p>
+
 
 
 
