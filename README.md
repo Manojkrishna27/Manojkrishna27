@@ -26,14 +26,16 @@ Turning ideas into code 💻 | AI & Data Science student
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%23499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://leetcode.com/u/l67O6s3DHV/)
-
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkrishna27&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+# LeetCode Stats
+<p align="center">
+  [<image-card alt="LeetCode Stats" src="https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark" ></image-card>](https://leetcode.com/u/l67O6s3DHV/)
+</p>
 
 
 
