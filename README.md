@@ -40,7 +40,7 @@ Turning ideas into code 💻 | AI & Data Science student
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔥 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Manojkrishna27&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Manojkrishna27&theme=merko)
 
 ## Contribution Snake
 <img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
