@@ -2,6 +2,11 @@
 <h1>Hi I'm Manojkrishna</h1>
 Turning ideas into code 💻 | AI & Data Science student
 <br><br>
+## 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF9F&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Typing Cat" width="450" />
@@ -45,10 +50,7 @@ Turning ideas into code 💻 | AI & Data Science student
 ## 🔥 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Manojkrishna27&theme=github-compact)
 
-## 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF9F&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-</div>
+
 
 ## Contribution Snake
 <img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
