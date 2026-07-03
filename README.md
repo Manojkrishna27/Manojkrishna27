@@ -10,7 +10,8 @@ Turning ideas into code 💻 | AI & Data Science student
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_mk_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-krishna-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkrishna2725@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/l67O6s3DHV/)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Manojkrishna27&theme=radical&no-frame=true&margin-w=15)
 
 # 💻 Tech Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -39,7 +40,7 @@ Turning ideas into code 💻 | AI & Data Science student
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔥 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Manojkrishna27&theme=red)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Manojkrishna27&theme=react-dark)
 
 ## Contribution Snake
 <img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
