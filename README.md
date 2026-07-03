@@ -38,6 +38,7 @@ Turning ideas into code 💻 | AI & Data Science student
 
   
 </p>
+Profile Views: ![Visitor Count](https://profile-counter.glitch.me/Manojkrishna27/count.svg)
 
 
 
