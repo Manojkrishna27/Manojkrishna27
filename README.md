@@ -1,9 +1,9 @@
+
+<h1>Hi I'm Manojkrishna</h1>
+Turning ideas into code 💻 | AI & Data Science student 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Typing Cat" width="450" />
 </p>
-<h1>Hi I'm Manojkrishna</h1>
-Turning ideas into code 💻 | AI & Data Science student 
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_mk_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-krishna-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkrishna2725@gmail.com) 
