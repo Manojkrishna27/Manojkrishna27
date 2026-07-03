@@ -10,8 +10,11 @@ Turning ideas into code 💻 | AI & Data Science student
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_mk_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-krishna-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkrishna2725@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/l67O6s3DHV/)
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manojkrishna27&theme=radical&no-frame=true&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=Manojkrishna27&theme=tokyonight&no-frame=true&margin-w=15)
+
+
 
 # 💻 Tech Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
