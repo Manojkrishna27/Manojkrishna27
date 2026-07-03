@@ -36,7 +36,7 @@ Turning ideas into code 💻 | AI & Data Science student
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://leetcode.com/u/l67O6s3DHV/)
 
 
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Contribution Snake
 <img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
