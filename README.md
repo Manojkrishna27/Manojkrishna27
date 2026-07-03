@@ -45,6 +45,11 @@ Turning ideas into code 💻 | AI & Data Science student
 ## 🔥 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Manojkrishna27&theme=github-compact)
 
+## 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF9F&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
 ## Contribution Snake
 <img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
 
