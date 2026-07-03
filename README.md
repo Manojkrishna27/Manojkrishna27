@@ -6,6 +6,8 @@ Turning ideas into code 💻 | AI & Data Science student
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Typing Cat" width="450" />
 </p>
+
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Socials:
