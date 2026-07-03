@@ -33,7 +33,7 @@ Turning ideas into code 💻 | AI & Data Science student
 </p>
 
 # LeetCode Stats
-<image-card alt="LeetCode Stats" src="https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark" ></image-card>
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://leetcode.com/u/l67O6s3DHV/)
 
 
 
