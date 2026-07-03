@@ -28,15 +28,11 @@ Turning ideas into code 💻 | AI & Data Science student
 
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://leetcode.com/u/l67O6s3DHV/)
 
-# 📊 GitHub Stats:
-<p>
-![Streak](https://streak-stats.demolab.com?user=Manojkrishna27&theme=tokyonight)
+# 📊 GitHub Stats
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkrishna27&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 
 
 
