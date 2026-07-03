@@ -40,8 +40,12 @@ Turning ideas into code 💻 | AI & Data Science student
 
 ## Contribution Snake
 <img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
+
+---
+
 <p align="right">
-  👁️ <i>Profile Views:</i> <img src="https://profile-counter.glitch.me/Manojkrishna27/count.svg" alt="Visitor Count" valign="middle" />
+  <span>👁️ <i>Profile Views:</i></span>
+  <img src="https://profile-counter.glitch.me/Manojkrishna27/count.svg" alt="Visitor Count" style="vertical-align: middle;" />
 </p>
 
 
