@@ -38,7 +38,9 @@ Turning ideas into code 💻 | AI & Data Science student
 
   
 </p>
-Profile Views: ![Visitor Count](https://profile-counter.glitch.me/Manojkrishna27/count.svg)
+<p align="center">
+  <img src="https://github-readme-quotes.vercel.com/api?theme=tokyonight&type=quote" alt="Quote of the Day" />
+</p>
 
 
 
