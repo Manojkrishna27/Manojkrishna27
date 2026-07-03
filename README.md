@@ -28,7 +28,7 @@ Turning ideas into code 💻 | AI & Data Science student
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkrishna27&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -41,12 +41,7 @@ Turning ideas into code 💻 | AI & Data Science student
 ## Contribution Snake
 <img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg"/>
 
----
 
-<p align="right">
-  <span>👁️ <i>Profile Views:</i></span>
-  <img src="https://profile-counter.glitch.me/Manojkrishna27/count.svg" alt="Visitor Count" style="vertical-align: middle;" />
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
