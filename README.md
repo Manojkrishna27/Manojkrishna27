@@ -61,12 +61,12 @@ Turning ideas into code 💻 | AI & Data Science student
 
 
 ## Contribution Snake
-<img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg" width=450/>
+<img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg" />
 
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Typing Cat" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Typing Cat" wodth=500/>
 </p>
 
 
