@@ -4,7 +4,7 @@ Turning ideas into code 💻 | AI & Data Science student
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF9F&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Typing SVG" />
 </div>
 
 
