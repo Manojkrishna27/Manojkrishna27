@@ -39,11 +39,9 @@ Turning ideas into code 💻 | AI & Data Science student
 
 
 
-
-# 📊 GitHub Stats
-
-<p align="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkrishna27&theme=tokyonight" alt="GitHub Streak" />
+#GitHub Status
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkrishna27&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
