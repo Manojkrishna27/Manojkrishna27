@@ -1,6 +1,5 @@
 
 <h1>Hi I'm Manojkrishna</h1>
-Turning ideas into code 💻 | AI & Data Science student
 <br><br>
 
 <div align="center">
