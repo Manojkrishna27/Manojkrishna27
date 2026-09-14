@@ -13,8 +13,7 @@
 </p>
 
 
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p>The Person You Become While Chasing Your Dreams is More Valuable Than The Dream</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_mk_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-krishna-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkrishna2725@gmail.com) 
