@@ -58,8 +58,11 @@
 
 
 
-## Contribution Snake
-<img src="https://raw.githubusercontent.com/Manojkrishna27/Manojkrishna27/output/github-contribution-grid-snake.svg" />
+## 🧠 Neural Contribution Network
+
+<div align="center">
+  <img src="./assets/neural-contribution.svg" width="100%" alt="Animated neural contribution network with pulsing signals" />
+</div>
 
 
 
