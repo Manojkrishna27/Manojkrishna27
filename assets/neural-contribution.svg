@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Manoj's Neural Contribution Network</title>
+  <desc id="desc">An animated neural network with signals pulsing through contribution-style nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b18"/>
+      <stop offset=".5" stop-color="#071426"/>
+      <stop offset="1" stop-color="#03100d"/>
+    </linearGradient>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff"/>
+      <stop offset=".5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#00ff9d"/>
+    </linearGradient>
+    <radialGradient id="node">
+      <stop offset="0" stop-color="#eaffff"/>
+      <stop offset=".25" stop-color="#69f7ff"/>
+      <stop offset="1" stop-color="#00a86b"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect width="11" height="11" rx="2.5" fill="#0c2233" opacity=".65"/>
+    </pattern>
+    <path id="p1" d="M90 180 C190 80 260 80 350 135 S510 250 600 180 S760 80 850 130 S1030 250 1110 180"/>
+    <path id="p2" d="M90 180 C190 270 270 275 350 225 S510 80 600 180 S760 280 850 225 S1020 90 1110 180"/>
+    <path id="p3" d="M90 180 C230 180 245 95 350 135 S490 180 600 180 S735 175 850 130 S1010 180 1110 180"/>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect x="20" y="20" width="1160" height="320" rx="18" fill="none" stroke="#164e63" opacity=".55"/>
+  <rect x="38" y="58" width="1124" height="250" fill="url(#grid)" opacity=".32"/>
+
+  <g fill="none" stroke="url(#wire)" stroke-width="2" opacity=".42">
+    <use href="#p1"/><use href="#p2"/><use href="#p3"/>
+    <path d="M90 180 C160 180 205 50 265 78 L350 135"/>
+    <path d="M90 180 C160 180 205 310 265 282 L350 225"/>
+    <path d="M350 135 C420 30 525 65 600 180"/>
+    <path d="M350 225 C430 320 530 290 600 180"/>
+    <path d="M600 180 C690 40 780 55 850 130"/>
+    <path d="M600 180 C690 320 780 300 850 225"/>
+    <path d="M850 130 C930 35 1040 85 1110 180"/>
+    <path d="M850 225 C940 315 1040 260 1110 180"/>
+  </g>
+
+  <g fill="#0a2230" stroke="#00d4ff" stroke-width="2">
+    <circle cx="90" cy="180" r="14"/>
+    <circle cx="265" cy="78" r="9"/><circle cx="265" cy="282" r="9"/>
+    <circle cx="350" cy="135" r="13"/><circle cx="350" cy="225" r="13"/>
+    <circle cx="600" cy="180" r="18"/>
+    <circle cx="850" cy="130" r="13"/><circle cx="850" cy="225" r="13"/>
+    <circle cx="1110" cy="180" r="15"/>
+  </g>
+
+  <g fill="url(#node)" filter="url(#glow)">
+    <circle cx="90" cy="180" r="5"><animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="265" cy="78" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="2.1s" begin=".3s" repeatCount="indefinite"/></circle>
+    <circle cx="265" cy="282" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="2.1s" begin=".8s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="135" r="5"><animate attributeName="r" values="4;7;4" dur="1.9s" begin=".6s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="225" r="5"><animate attributeName="r" values="4;7;4" dur="1.9s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="180" r="7"><animate attributeName="r" values="6;11;6" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="130" r="5"><animate attributeName="r" values="4;7;4" dur="1.8s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="225" r="5"><animate attributeName="r" values="4;7;4" dur="1.8s" begin="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="180" r="6"><animate attributeName="r" values="5;9;5" dur="2.2s" begin="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g fill="#c4fff1" filter="url(#softGlow)">
+    <circle r="4"><animateMotion dur="4.2s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="4.2s" begin="-1.4s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="3.6s" begin="-.8s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="4.2s" begin="-2.8s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="600" y="42" fill="#d9fff5" font-size="18" letter-spacing="4">NEURAL CONTRIBUTION NETWORK</text>
+    <text x="600" y="330" fill="#5eead4" font-size="12" letter-spacing="3">MANOJKRISHNA.M • SIGNAL ACTIVE</text>
+  </g>
+
+  <g fill="#00ff9d" opacity=".65">
+    <rect x="55" y="94" width="9" height="9" rx="2"><animate attributeName="opacity" values=".18;.9;.18" dur="2.7s" repeatCount="indefinite"/></rect>
+    <rect x="442" y="267" width="9" height="9" rx="2"><animate attributeName="opacity" values=".18;.9;.18" dur="2.3s" begin=".4s" repeatCount="indefinite"/></rect>
+    <rect x="735" y="74" width="9" height="9" rx="2"><animate attributeName="opacity" values=".18;.9;.18" dur="2.5s" begin=".8s" repeatCount="indefinite"/></rect>
+    <rect x="1012" y="279" width="9" height="9" rx="2"><animate attributeName="opacity" values=".18;.9;.18" dur="2.2s" begin="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
