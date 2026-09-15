@@ -58,10 +58,10 @@
 
 
 
-## 🧠 Neural Contribution Network
+## ⚡ Contribution Circuit Board
 
 <div align="center">
-  <img src="./assets/neural-contribution.svg" width="100%" alt="Animated neural contribution network with pulsing signals" />
+  <img src="./assets/circuit-contribution.svg" width="100%" alt="Animated contribution circuit board with glowing electrical signals" />
 </div>
 
 
