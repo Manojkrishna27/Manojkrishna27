@@ -58,10 +58,10 @@
 
 
 
-## ⚡ Contribution Circuit Board
+## 🌳 Growing Technology Tree
 
 <div align="center">
-  <img src="./assets/circuit-contribution.svg" width="100%" alt="Animated contribution circuit board with glowing electrical signals" />
+  <img src="./assets/technology-tree.svg" width="100%" alt="Animated growing technology tree with contribution leaves" />
 </div>
 
 
