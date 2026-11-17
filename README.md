@@ -4,7 +4,8 @@
 
 <br>
 
-## $$\text{A } \color{#F0883E}\text{Divine Warrior} \color{#E6EDF3}\text{ who never accept his defeat}$$
+## $$\text{A } \color{#F0883E}\text{Divine Warrior} \color{#E6EDF3}\text{ who never accept his } \color{#F85149}\text{defeat}$$
+
 
 <p align="center">
   <img src="./assets/warrior.gif" width="500" alt="Warrior Animation"/>
