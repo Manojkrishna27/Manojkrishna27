@@ -12,9 +12,10 @@
 
 
 
-<h2 style="text-align: center;">
-  --Remember the <span style="color: #007BFF;">Person You Become</span> While Chasing Your <span style="color: #28A745;">Dreams</span> is <span style="color: #FF8C00;">More Valuable</span> Than The Dream
+<h2 align="center">
+  --Remember the <font color="#007BFF">Person You Become</font> While Chasing Your <font color="#28A745">Dreams</font> is <font color="#FF8C00">More Valuable</font> Than The Dream
 </h2>
+
 
 
 ## 🌐 Socials:
