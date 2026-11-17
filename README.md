@@ -8,7 +8,7 @@
 
   <p align="center">
   <img src="github_profile.png" width="500" alt="Manoj Krishna - Developer"/>
-  <img src="./assets/github.jpg" width="25%" "/>
+  <img src="./assets/github.jpg" width="30%" "/>
 </p>
 
 
