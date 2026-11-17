@@ -12,9 +12,12 @@
 
 
 
-<h2 align="center">
-  --Remember the <font color="#007BFF">Person You Become</font> While Chasing Your <font color="#28A745">Dreams</font> is <font color="#FF8C00">More Valuable</font> Than The Dream
-</h2>
+<div align="center">
+
+### $$\text{--Remember the } \color{#58A6FF}\text{Person You Become} \color{#E6EDF3}\text{ While Chasing Your } \color{#3FB950}\text{Dreams} \color{#E6EDF3}\text{ is } \color{#F0883E}\text{More Valuable} \color{#E6EDF3}\text{ Than The Dream}$$
+
+</div>
+
 
 
 
