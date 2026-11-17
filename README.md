@@ -58,10 +58,8 @@
 
 
 
-## 🌳 Growing Technology Tree
-
 <div align="center">
-  <img src="./assets/github.jpg" width="100%" alt="Animated growing technology tree with contribution leaves" />
+  <img src="./assets/github.jpg" width="100%" alt="Animated growing technology tree with contribution leaves" width=50%/>
 </div>
 
 
