@@ -4,14 +4,14 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF9F&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer"  alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="./assets/github.jpg" width="50%" alt="Animated growing technology tree with contribution leaves"/>
-</div>
 
 
   <p align="center">
   <img src="github_profile.png" width="500" alt="Manoj Krishna - Developer"/>
 </p>
+<div align="center">
+  <img src="./assets/github.jpg" width="25%" alt="Animated growing technology tree with contribution leaves"/>
+</div>
 
 
 <h2 align="center">The Person You Become While Chasing Your Dreams is More Valuable Than The Dream</h2>
