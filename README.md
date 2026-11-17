@@ -12,8 +12,10 @@
 
 
 
+<h2 style="text-align: center;">
+  --Remember the <span style="color: #007BFF;">Person You Become</span> While Chasing Your <span style="color: #28A745;">Dreams</span> is <span style="color: #FF8C00;">More Valuable</span> Than The Dream
+</h2>
 
-<h2 align="center">The Person You Become While Chasing Your Dreams is More Valuable Than The Dream</h2>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_mk_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-krishna-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkrishna2725@gmail.com) 
