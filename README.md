@@ -2,7 +2,7 @@
 <br><br>
 
 <div align="center" >
-<h1>A Divine Warrior who never accept his defeat</h1>
+<h2>A Divine Warrior who never accept his defeat</h2>
 </div>
 
 
