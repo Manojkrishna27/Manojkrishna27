@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <img src="./assets/github.jpg" width="100%" alt="Animated growing technology tree with contribution leaves" width=50%/>
+  <img src="./assets/github.jpg" width="100%" alt="Animated growing technology tree with contribution leaves" width=10%/>
 </div>
 
 
