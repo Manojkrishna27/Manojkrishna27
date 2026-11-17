@@ -10,7 +10,7 @@
   <img src="github_profile.png" width="500" alt="Manoj Krishna - Developer"/>
 </p>
 <div align="center">
-  <img src="./assets/github.jpg" width="25%" alt="Animated growing technology tree with contribution leaves"/>
+  <img src="./assets/github.jpg" width="25%" "/>
 </div>
 
 
