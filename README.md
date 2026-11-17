@@ -8,10 +8,9 @@
 
   <p align="center">
   <img src="github_profile.png" width="500" alt="Manoj Krishna - Developer"/>
-</p>
-<div align="center">
   <img src="./assets/github.jpg" width="25%" "/>
-</div>
+</p>
+
 
 
 <h2 align="center">The Person You Become While Chasing Your Dreams is More Valuable Than The Dream</h2>
