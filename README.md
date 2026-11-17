@@ -7,9 +7,9 @@
 
 
   <p align="center">
-  <img src="github_profile.png" width="500" alt="Manoj Krishna - Developer"/>
-  <img src="./assets/github.jpg" width="29.5%" "/>
+  <img src="./assets/warrior.gif" width="500" alt="Warrior Animation"/>
 </p>
+
 
 
 
