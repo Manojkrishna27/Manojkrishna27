@@ -2,7 +2,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF9F&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer"  alt="Typing SVG" />
+A Divine Warrior who never accept his defeat
 </div>
 
 
