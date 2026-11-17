@@ -45,7 +45,7 @@
 # 🏆 $$\color{#FFA116}\text{LeetCode Stats}$$
 <div align="center">
 
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=l67O6s3DHV&theme=github_dark)](https://leetcode.com/u/l67O6s3DHV/)
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=Manojkrishna-27&theme=github_dark)](https://leetcode.com/u/Manojkrishna-27/)
 
 </div>
 
