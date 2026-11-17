@@ -1,8 +1,8 @@
 <h1>Hi I'm Manojkrishna</h1>
 <br><br>
 
-<div align="center">
-A Divine Warrior who never accept his defeat
+<div align="center" >
+<h1>A Divine Warrior who never accept his defeat</h1>
 </div>
 
 
