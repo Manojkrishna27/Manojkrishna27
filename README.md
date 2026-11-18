@@ -11,7 +11,7 @@
   <img src="./assets/warrior.gif" width="500" alt="Warrior Animation"/>
 </p>
 
-### $$\text{--}\color{#F85149}\text{Remember} \color{#E6EDF3}\text{ the } \color{#58A6FF}\text{Person You Become} \color{#E6EDF3}\text{ While Chasing Your } \color{#3FB950}\text{Dreams} \color{#E6EDF3}\text{ is } \text{More Valuable} \color{#F85149}\text{ Than The Dream}$$
+### $$\text{--}\color{#F85149}\text{Remember} \color{#E6EDF3}\text{ the } \color{#58A6FF}\text{Person You Become} \color{#E6EDF3}\text{ While Chasing Your } text{Dreams} \color{#E6EDF3}\text{ is } \text{More Valuable} \color{#F85149}\text{ Than The Dream}$$
 
 
 </div>
