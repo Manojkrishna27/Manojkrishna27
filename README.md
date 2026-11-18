@@ -4,7 +4,7 @@
 
 <br>
 
-## $$\text{A } \color{#F0883E}\text{Divine Warrior} \color{#E6EDF3}\text{ who never accept his } \color{#F85149}\text{defeat}$$
+## $$\text{A } \color{#F85149}\text{Divine Warrior} \color{#E6EDF3}\text{ who never accept his } \color{#F85149}\text{defeat}$$
 
 
 <p align="center">
